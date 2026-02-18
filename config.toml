@@ -10,8 +10,8 @@ enableGitInfo = false
 [params]
 address = "Coimbatore, India"
 favicon = "/favicon.ico"
-firstName = "Madhuvarshini R"
-lastName = "Thiyagarajan"
+firstName = "Madhuvarshini"
+lastName = "R"
 phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
