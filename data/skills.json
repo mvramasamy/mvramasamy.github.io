@@ -1,10 +1,10 @@
 [{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","javascript"]
+      "skills":[ {"name":"Java"},{"name":"C"},{"name":"git"},"linux","bash","php",{"name":"javascript"}]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX",{"name":"MySQL"},"Wordpress"]
   },
   {
       "grouping":"Data Management",
