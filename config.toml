@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
+address = "Karur, India"
 favicon = "/favicon.ico"
 firstName = "Madhuvarshini"
 lastName = "R"
@@ -24,7 +24,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/madhuvarshini-ramasamy-aa1314327"
 name = "LinkedIn"
 
 [[params.handles]]
