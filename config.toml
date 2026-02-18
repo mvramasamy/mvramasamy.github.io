@@ -1,4 +1,4 @@
-title = "Sathish Kumar Thiyagarajan"
+title = "Madhuvarshini R"
 baseURL = "https://example.com/"
 theme = "my-resume"
 languageCode = "en-us"
@@ -28,7 +28,7 @@ link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/mvramasamy"
 name = "GitHub"
 
 [outputs]
